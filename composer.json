@@ -1,0 +1,15 @@
+{
+  "name": "atillacaliskan/feeds_tamper_php",
+  "description": "Extends Feeds Tamper module with PHP callbacks.",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "drupal/feeds_tamper": "^3.0",
+    "drupal/core": "^11"
+  },
+  "extra": {
+    "installer-name": "feeds_tamper_php"
+  }
+}
