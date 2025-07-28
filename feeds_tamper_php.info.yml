@@ -4,4 +4,4 @@ description: "Provides a PHP tamper plugin for Feeds Tamper (Drupal 11 compatibl
 core_version_requirement: ^11
 package: Feeds
 dependencies:
-  - tamper
+  - feeds_tamper
