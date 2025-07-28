@@ -1,0 +1,7 @@
+name: Feeds Tamper PHP
+type: module
+description: "Provides a PHP tamper plugin for Feeds Tamper (Drupal 11 compatible)."
+core_version_requirement: ^11
+package: Feeds
+dependencies:
+  - tamper
